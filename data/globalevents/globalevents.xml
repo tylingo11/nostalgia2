@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<globalevents>
+	<globalevent type="startup" name="ServerStartup" script="startup.lua"/>
+	<globalevent type="record" name="PlayerRecord" script="record.lua"/>
+	<globalevent name="Server Save" time="21:00:00" script="serversave.lua" />
+	<globalevent name="gesior-shop-system" interval="30000" script="gesior-shop-system.lua" />
+</globalevents>
